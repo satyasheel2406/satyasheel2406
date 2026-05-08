@@ -43,7 +43,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 First-year B.Tech Computer Science student at <strong>RGIPT</strong>.</li>
+        <li>🎓 Third-year B.Tech Computer Science student at <strong>RGIPT</strong>.</li>
         <li>💻 Passionate about <strong>Full-Stack Development, AI, and Scalable SaaS Systems</strong>.</li>
         <li>🌱 Currently mastering <strong>React, Next.js, Convex, Supabase, Drizzle ORM</strong>.</li>
         <li>🏆 JEE Advanced qualified twice with strong analytical skills.</li>
