@@ -106,7 +106,7 @@
 ## 📈 Activity & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyasheel2406&theme=tokyonight&no-frame=true&row=1&column=7&bg_color=1a1b26"/>
+  <img src="https://github-profile-trophy-kappa-amber.vercel.app/?username=satyasheel2406&theme=tokyonight&no-frame=true&row=1&column=7&bg_color=1a1b26"/>
 </div>
 
 <br/>
@@ -114,7 +114,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasheel2406&theme=tokyo-night&hide_border=true&bg_color=1a1b26"/>
 </div>
-
 ---
 
 ## 🎯 Current Goals
