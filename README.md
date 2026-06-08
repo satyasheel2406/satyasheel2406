@@ -91,8 +91,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyasheel2406&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasheel2406&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195"/>
+  <img src="https://my-stats-woad.vercel.app/api?username=satyasheel2406&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195"/>
+  <img src="https://my-stats-woad.vercel.app/api/top-langs/?username=satyasheel2406&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195"/>
 </div>
 
 <br/>
@@ -100,7 +100,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyasheel2406&theme=tokyonight&hide_border=true&background=1a1b26"/>
 </div>
-
 ---
 
 ## 📈 Activity & Trophies
